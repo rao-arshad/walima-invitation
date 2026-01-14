@@ -998,3 +998,20 @@ button:focus {
 }
 
 }
+
+.developer-credit {
+  margin-top: 8px;
+  font-size: 13px;
+  opacity: 0.85;
+  text-align: center;
+}
+
+.developer-credit a {
+  color: #25D366;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.developer-credit a:hover {
+  text-decoration: underline;
+}
